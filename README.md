@@ -197,23 +197,8 @@ SHOW TABLES;
 SELECT * FROM users;
 ```
 
----
 
-## ✅ Output
 
-* User submits the signup form
-* Data is stored in MySQL
-* Submitted information is displayed on the result page
-
----
-
-## 📌 Key Learnings
-
-* Docker multi-container applications
-* Service-to-service communication
-* Database initialization with Docker
-* Nginx + PHP-FPM integration
-* Real-world three-tier architecture
 
 ---
 
